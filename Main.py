@@ -35,7 +35,7 @@ queue = []
 
 # 🔁 Liste des URLs à ping
 ping_urls = [
-    "https://46d1ad0e-bafd-4f5c-bd7c-90f6b4e49db0-00-eaj2ewrcbyrt.janeway.replit.dev"
+    "https://github.com/Tortank-creator/Glory-power-league.git"
 ]
 
 # 🔁 Tâche de ping régulière
